@@ -11,7 +11,7 @@ dashboards, reports etc to share with community.
 
     Important Links
 
-		Demo		:	[[https://youtu.be/HW9_Mkmf09g|https://youtu.be/HW9_Mkmf09g]]
+		Demo		:	https://youtu.be/HW9_Mkmf09g
 
 		Tutorial	:	https://youtu.be/x1g0NGIsVig
 
