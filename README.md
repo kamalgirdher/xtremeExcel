@@ -28,4 +28,15 @@ dashboards, reports etc to share with community.
 	
 		Demo		:	https://www.youtube.com/watch?v=phzgipX3Q2g
 
-		Tutorial	:	http://exceltalk.blogspot.com/2014/08/calender-using-formula-in-excel.html
+		Tutorial	:	http://exceltalk.blogspot.com/2014/08/calender-using-formula-in-excel.html=
+		
+
+3. Shapes using keywords
+
+	Description
+	
+		This is a prototype in which it is highlighted that how easily we can plot flocharts and other graphical structures with the help of keywords. This can be extended to create wonderful applications. Feel free to use and share it in any way. However, you can not sell this directly or indirectly in any modified form to anyone without permission from Kamal Girdher(xtremeExcel).
+		
+	Important Links
+	
+		Demo		:	https://youtu.be/-_lVoCMNfdE
